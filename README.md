@@ -1,1 +1,1 @@
-# 1. semester repo til projekter og kode.
+# 1. semester repo branch til projekter og kode.
