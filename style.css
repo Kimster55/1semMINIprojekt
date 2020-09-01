@@ -73,16 +73,16 @@ h1 {
 }
 
 .thumbnail-grid figure.i1 {
-	background: url(fig1.PNG) no-repeat center;
+	background: url(../img/fig1.PNG) no-repeat center;
 	background-size: cover;
 }
 
 .thumbnail-grid figure.i2 {
-	background: url(fig2.PNG) no-repeat center;
+	background: url(../img/fig2.PNG) no-repeat center;
 	background-size: cover
 }
 
 .thumbnail-grid figure.i3 {
-	background: url(fig3.PNG) no-repeat center;
+	background: url(../img/fig3.PNG) no-repeat center;
 	background-size: cover
 }
